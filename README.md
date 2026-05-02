@@ -2,7 +2,7 @@
 
 ### arXiv Preprint 2025
 
-**Yang Yao Yixu Wang Yuxuan Zhang Yi Lu Tianle Gu Lingyu Li Dingyi Zhao Keming Wu Haozhe Wang Ping Nie Yan Teng Yingchun Wang**<br>
+**Yang Yao Yixu Wang Yuxuan Zhang Yi Lu Tianle Gu Lingyu Li Dingyi Zhao Keming Wu Haozhe Wang Ping Nie Yan Teng**<br>
 *Shanghai Artificial Intelligence Laboratory The University of Hong Kong Fudan University University of British Columbia University of Toronto Tsinghua University  Shanghai Jiao Tong University Hong Kong University of Science and Technology Peking University*
 
 
